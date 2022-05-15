@@ -33,8 +33,8 @@ function TweetBox() {
                     </div>
                     <button 
                         disabled={!input}
-                        className='bg-twitter px5
-                        py-2 disabled:opacity-40 font-bold text-white rounded-full'> 
+                        className='bg-twitter px-5
+                        py-2 disabled:opacity-40 font-bold text-white rounded-full '> 
                         Tweet
                     </button>
                 </div>
